@@ -1,5 +1,5 @@
-## GitHub Page トップ
-[https://watsony.github.io/vuejs2/](https://watsony.github.io/vuejs2/)
+GitHub Page トップ
+https://watsony.github.io/vuejs2/
 
 
 ===============================================
